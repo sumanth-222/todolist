@@ -1,0 +1,23 @@
+.main-container {
+  background-color: peachpuff;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.todos-card {
+  background-color: white;
+  border-radius: 10px;
+  margin: 20px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+}
+.todo-heading {
+  color: black;
+  font-size: 32px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-style: italic;
+  text-align: center;
+}
